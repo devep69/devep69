@@ -1,3 +1,3 @@
 🔎
 
-https://github.com/devep69/views.git
+https://devep69.github.io/views/
