@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
     <style>
-        body {
+    body {
     background: #000;
     color: #00ff00;
     text-align: center;
